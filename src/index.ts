@@ -24,7 +24,7 @@ async function main() {
     // Loading Algorand client
     const client = await loadClient();
 
-    const mnemonic = "your 25-word mnemonic here"; // Replace with your mnemonic locally
+    const mnemonic = "your 25-word mnemonic here";
     const account = algosdk.mnemonicToSecretKey(mnemonic);
 
     // Instantiate the ApplicationClient using the ARC-32 spec
