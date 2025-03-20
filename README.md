@@ -12,3 +12,6 @@ To complete this dev task, you must create a fork of the repository and commit y
 submitted on DaoWakanda to this link https://www.daowakanda.org/developers/67dac98698422f1f0db3dff5.
 
 Ensure that you do not push your mnemonic key to GitHub. Add your address to the `src/index.ts` file as a comment as the address can be used to confirm that you successfully claimed the ASA.
+
+# CHALLENGE SOLVED BY CYBWITHFLOURISH
+[TESTNET PERA EXPLORER](https://testnet.explorer.perawallet.app/tx/JXIIUA6Y2CHHEQKBLHFUD3SY3DRCG2JBCIMAJ4DM5NJMGIALXOWQ/)
