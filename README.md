@@ -13,5 +13,5 @@ submitted on DaoWakanda to this link https://www.daowakanda.org/developers/67dac
 
 Ensure that you do not push your mnemonic key to GitHub. Add your address to the `src/index.ts` file as a comment as the address can be used to confirm that you successfully claimed the ASA.
 
-# CHALLENGE SOLVED BY CYBWITHFLOURISH
+# CHALLENGE SOLVED BY [CYBWITHFLOURISH](https://github.com/CYBWithFlourish/)
 [TESTNET PERA EXPLORER](https://testnet.explorer.perawallet.app/tx/JXIIUA6Y2CHHEQKBLHFUD3SY3DRCG2JBCIMAJ4DM5NJMGIALXOWQ/)
